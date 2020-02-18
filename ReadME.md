@@ -7,4 +7,4 @@
 
 This is my first task with programming language C++ - realitation of Class Pointer, that have:
 * Constructor
-* Funtion of output
+* Funсtion of output
